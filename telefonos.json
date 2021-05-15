@@ -1,0 +1,23 @@
+misTelefonos([
+    {
+        "marca": "Samsung",
+        "so" : "Android",
+        "memoria" : "128GB",
+        "pantalla" : "5.4",
+        "foto" : "./imagenes/telefono1.jpg"
+    },
+    {
+        "marca": "Xiaomi",
+        "so" : "Symbian",
+        "memoria" : "64GB",
+        "pantalla" : "5.5",
+        "foto" : "./imagenes/telefono2.jpg"
+    },
+    {
+        "marca": "Iphone",
+        "so" : "IOS",
+        "memoria" : "64GB",
+        "pantalla" : "6.5",
+        "foto" : "./imagenes/iphone.jpg"
+    }
+]);

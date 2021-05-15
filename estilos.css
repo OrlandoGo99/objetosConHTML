@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'New Tegomin', serif; /*Tipografia*/
+}
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: #6a6a6a;
+    margin-top: 3px;
+    font-weight: 800;
+    font-family: sans-serif;
+    color: transparent;
+    background-image: url(https://media.giphy.com/media/TjSaNRzMZyrk6KCQOb/giphy.gif);
+    -webkit-background-clip: text;
+}
+
+
+
+    img{
+        width: 330px;
+        height: 220px;
+        border-radius: 8px;
+        box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+        overflow: hidden;
+        margin: 20px 500px;
+        text-align: center;
+        transition: all 0.25s;
+    }
+    
+    img:hover{
+        transform: translateY(-15px);
+        box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+    }
+     .Boton a{
+        margin: 20px 700px;
+     }
+    .Boton1 a {
+        font-weight: 500;
+        text-decoration: none;
+        color: #3469db;
+        cursor: pointer;
+        transition-duration: 0.4s;
+    }
+
+    .Boton1 a:hover{
+        background-color: #635105a9;
+        color: rgb(241, 249, 255);
+        border-radius: 45px;
+    }
+    .button {
+        border: none;
+        color: rgb(5, 5, 5);
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 200px 30px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        position: absolute;
+        border-radius: 20px;
+        left: 620px;
+        top: 960px;
+        background-color: rgb(204, 93, 28); 
+        color: black; 
+        border: 2px solid #4caf4f00;
+      }  
+     
+      .button:hover {
+        background-color: #cf7a34;
+        color: rgb(255, 242, 254);
+      }
